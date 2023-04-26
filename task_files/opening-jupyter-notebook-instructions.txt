@@ -1,0 +1,5 @@
+Start > type "cmd" > open command prompt
+
+cd Documents\GitHub\Python-Course
+
+jupyter notebook
